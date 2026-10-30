@@ -10,7 +10,7 @@ import requests
 # Example hockey data
 games = pd.DataFrame({
     "team": ["Toronto", "Montreal", "Toronto", "Montreal"],
-    "goals_for": [4, 4, 3, 1],
+    "goals_for": [4, 2, 3, 1],
     "goals_against": [2, 3, 1, 4],
 })
 
